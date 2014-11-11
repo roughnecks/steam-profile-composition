@@ -27,9 +27,7 @@ Running the script:
 
 Copy your Background to the same dir where this script is. Open a terminal and cd (change directory) to that directory.
 
-Windows: c:\> perl spc.pl background.jpg
-
-Linux: $ perl spc.pl background.jpg
+    perl spc.pl background.jpg
 
 The script will cut your BG and create 8 new images: 4 of them will have an "a#number" suffix and those are Artworks. The other 4 will have a "s#number" suffix and those are Screenshots.
 
