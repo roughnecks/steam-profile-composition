@@ -18,8 +18,8 @@
 # Copy your Background to the same dir where this script is
 # Open a terminal and cd (change directory) to that directory
 
-# Windows: c:\> perl steamimg.pl background.jpg
-# Linux:   $ perl steamimg.pl background.jpg
+# Windows: c:\> perl spc.pl background.jpg
+# Linux:   $ perl spc.pl background.jpg
 
 # DATA
 # Panels:
