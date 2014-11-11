@@ -2,7 +2,7 @@ steam-profile
 =============
 
 Perl script to cut a Steam background and create a Steam profile composition.
-Tested with 1920x1080 Backgrounds
+Tested with 1920x Backgrounds
 
 Supported OS: Windows and Linux
 -------------------------------
