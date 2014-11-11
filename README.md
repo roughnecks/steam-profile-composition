@@ -1,5 +1,5 @@
-steam-profile
-=============
+Steam Profile Composition
+=========================
 
 Perl script to cut a Steam background and create a Steam profile composition.
 Tested with 1920x Backgrounds
