@@ -49,32 +49,3 @@ Copy the four shots to the destination folder and copy them again in the "thumbn
 We're almost set up but one thing remains to be done: you must write at least one comment in the Main Artwork (or rate it up), so that all other images will be aligned.
 
 That is all, thanks for reading.
-
-
-
-DATA
-----
-
-Panels:
--------
-
-Upper: Artworks Showcase
-
-Lower: Screenshots Showcase
-
-
-Upper Main: 509x340+507+270
-
-Upper Top: 102x72+1021+270
-
-Upper Middle: 102x72+1021+353
-
-Upper Bottom: 101x79+1021+436
-
-Lower Main: 507x383+507+710
-
-Lower Top: 102x60+1021+710
-
-Lower Middle: 101x77+1021+782
-
-Lower Bottom: 102x62+1021+870
