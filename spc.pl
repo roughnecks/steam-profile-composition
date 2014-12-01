@@ -26,7 +26,7 @@
 # Upper: Artworks Showcase
 # Lower: Screenshots Showcase
 
-# Upper Main:   509x340+507+270
+# Upper Main:   509x340+507+269
 # Upper Top:    102x72+1021+270
 # Upper Middle: 102x72+1021+353
 # Upper Bottom: 101x79+1021+436
@@ -70,7 +70,7 @@ my $s3 = $filename . '_s3' . $ext;
 # Cut the pieces using ImageMagick
 # While we cut pieces we also build an array with screenshots' filenames
 my @produced;
-foreach my $spec ([ 'a0', '509x340+507+270' ], [ 'a1', '102x72+1021+270' ], 
+foreach my $spec ([ 'a0', '509x340+507+269' ], [ 'a1', '102x72+1021+270' ], 
 		  [ 'a2', '102x72+1021+353' ], [ 'a3', '101x79+1021+436' ], 
 		  [ 's0', '507x383+507+710' ], [ 's1', '102x60+1021+710' ], 
 		  [ 's2', '101x77+1021+782' ], [ 's3', '102x62+1021+870' ]) {
