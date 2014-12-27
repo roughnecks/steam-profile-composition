@@ -49,3 +49,11 @@ Copy the four shots to the destination folder and copy them again in the "thumbn
 We're almost set up but one thing remains to be done: you must write at least one comment in the Main Artwork (or rate it up), so that all other images will be aligned.
 
 That is all, thanks for reading.
+
+
+Showcases:
+----------
+
+Upper: Artworks Showcase
+
+Lower: Screenshots Showcase
