@@ -4,6 +4,8 @@ Steam Profile Composition
 Perl script to cut a Steam background and create a Steam profile composition.
 Tested with 1920x Backgrounds
 
+![Profile Example](https://raw.githubusercontent.com/roughnecks/steam-profile/master/bureau.png)
+
 Supported OS: Windows and Linux
 -------------------------------
 
