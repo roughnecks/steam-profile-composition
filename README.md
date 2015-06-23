@@ -59,3 +59,7 @@ Showcases:
 Upper: Artworks Showcase
 
 Lower: Screenshots Showcase
+
+
+
+If you like it, please leave your feedback on ![Steam](http://steamcommunity.com/sharedfiles/filedetails/?id=467433424)
