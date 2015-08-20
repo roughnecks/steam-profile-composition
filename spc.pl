@@ -26,15 +26,15 @@
 # Upper: Artworks Showcase
 # Lower: Screenshots Showcase
 
-# Upper Main:   509x340+507+270
-# Upper Top:    102x72+1021+270
-# Upper Middle: 102x72+1021+353
-# Upper Bottom: 101x79+1021+436
+#A0:  506x284+510+271
+#A1:  100x56+1024+271
+#A2:  100x56+1024+340
+#A3:  100x56+1024+409
 
-# Lower Main:   507x382+507+709
-# Lower Top:    102x60+1021+710
-# Lower Middle: 101x77+1021+782
-# Lower Bottom: 102x62+1021+870
+#S0:  506x284+510+654
+#S1:  100x56+1024+654
+#S2:  100x56+1024+723
+#S3:  100x56+1024+792
 
 # CODE STARTS HERE #
 ####################
@@ -70,10 +70,10 @@ my $s3 = $filename . '_s3' . $ext;
 # Cut the pieces using ImageMagick
 # While we cut pieces we also build an array with screenshots' filenames
 my @produced;
-foreach my $spec ([ 'a0', '509x340+507+270' ], [ 'a1', '102x72+1021+270' ], 
-		  [ 'a2', '102x72+1021+353' ], [ 'a3', '101x79+1021+436' ], 
-		  [ 's0', '507x382+507+709' ], [ 's1', '102x60+1021+710' ], 
-		  [ 's2', '101x77+1021+782' ], [ 's3', '102x62+1021+870' ]) {
+foreach my $spec ([ 'a0', '506x284+510+271' ], [ 'a1', '100x56+1024+271' ], 
+		  [ 'a2', '100x56+1024+340' ], [ 'a3', '100x56+1024+409' ], 
+		  [ 's0', '506x284+510+654' ], [ 's1', '100x56+1024+654' ], 
+		  [ 's2', '100x56+1024+723' ], [ 's3', '100x56+1024+792' ]) {
     if ($spec->[0] =~ m/s\d/) {
 	my $basename = $filename . '_' . $spec->[0] . $ext;
 	push @produced, $basename; # our array (to be used later)
